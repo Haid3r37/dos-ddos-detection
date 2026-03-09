@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+*.tar
+*.rar
+venv/
+env/
